@@ -16,3 +16,6 @@ print(sonapikkused1, sonapikkused2)
 print(ttest_ind([3, 4, 5, 10, 6, 4, 6, 4, 6], [2, 6, 2, 3, 2, 4, 3, 6, 4, 2]))
 
 # leia t-test abil, kas nende lausete keskmine pikkus erineb üldistatavalt
+
+print(sum(sonapikkused1)/len(sonapikkused1))
+print(sum(sonapikkused2)/len(sonapikkused2))
