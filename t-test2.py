@@ -13,4 +13,4 @@ sonapikkused2=[len(sona) for sona in sonad2]
 print(ttest_ind(sonapikkused1, sonapikkused2))
 print(sum(sonapikkused1)/len(sonapikkused1))
 
-# 6.175432-05  = 0.000006175432
+# 6.175432-05 = 0.000006175432
